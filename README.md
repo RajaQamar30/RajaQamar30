@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RajaQamar30
 - 👀 I have an experience of 3 Year+ in SQA Engineer field.
-- 🌱 I’m currently looking for remote job for the position of SQA Engineer.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently looking for the role of SQA Engineer. Remote job will be more prefferable.
 - 📫 You can reach me at my email: rajaqamar95@gmail.com or LinkedIN: https://www.linkedin.com/in/raja-qamer-ayub-052602119/
  
 <!---
