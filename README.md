@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajaQamar30
-- 👀 I have an experience of 3 Year+ in SQA Engineer field.
+- 👀 I have an experience of 4 Year+ in SQA Engineer field.
 - 🌱 I’m currently looking for the role of SQA Engineer. Remote job will be more prefferable.
 - 📫 You can reach me at my email: rajaqamar95@gmail.com or LinkedIN: https://www.linkedin.com/in/rajaqamer30/
  
